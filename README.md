@@ -2,7 +2,7 @@
 
 A statistical arbitrage strategy that tests US airline stocks for cointegration and trades mean reversion in the spread of the strongest pair, Southwest (LUV) and JetBlue (JBLU).
 
-📄 **[Read the full write-up (PDF)](Cointegration-Based_Pairs_Trading_Model__LUV_JBLU_.pdf)**
+📄 **[Read the full write-up (PDF)](Cointegration-Based Pairs Trading Model (LUV_JBLU).pdf)**
 
 ## Overview
 
