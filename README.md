@@ -62,8 +62,8 @@ The 30-day lookback captures a more stable signal than the 5-day alternative, an
 
 <!-- Replace the filenames below with your actual ones -->
 ```bash
-pip install -r requirements.txt
-python pairs_trading.py
+pip install pandas statsmodels yfinance matplotlib
+jupyter notebook PairsTradingModel.ipynb
 ```
 
 ## Tech
